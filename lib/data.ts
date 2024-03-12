@@ -50,6 +50,15 @@ export const experiencesData = [
     icon: React.createElement(CgWorkAlt),
     date: "2022 - 2024",
   },
+
+  {
+    title: "Web Developer Intern at Prodigy InfoTech.",
+    location: "Mumbai, Maharashtra",
+    description:
+      "During the internship as a web Development intern , I had the incredible opportunity to dive into the world of web development and gain valuable hands-on experience. ",
+    icon: React.createElement(FaReact),
+    date: "Aug 2023 - Sep 2023",
+  },
   {
     title: "IT and Ui/Ux Intern at CFX.",
     location: "Pune, Maharashtra",
@@ -58,6 +67,9 @@ export const experiencesData = [
     icon: React.createElement(FaReact),
     date: "2024 - present",
   },
+  
+
+
 ] as const;
 
 export const projectsData = [
