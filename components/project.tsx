@@ -52,7 +52,7 @@ export default function Project({
           src={imageUrl}
           alt="Project I worked on"
           quality={95}
-          className="sm:absolute sm:block top-8 -right-40 w-[28.25rem] rounded-t-lg shadow-2xl
+          className="sm:absolute sm:block top-8 -right-40 sm:w-[28.25rem] rounded-t-lg shadow-2xl w-full
         transition 
         sm:group-hover:scale-[1.04]
         sm:group-hover:-translate-x-3
