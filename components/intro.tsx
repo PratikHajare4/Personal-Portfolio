@@ -32,7 +32,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="/Pratik.png"
+              src="/Pratik1.png"
               alt="Pratik Hajare"
               width="192"
               height="192"

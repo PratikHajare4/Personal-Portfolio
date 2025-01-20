@@ -123,7 +123,7 @@ export const skillsData = [
   "GitHUB",
   "Tailwind CSS",
   "MongoDB",
-  "Express",
+  "Express Js",
   "Python",
   "Java",
   "kotlin",
