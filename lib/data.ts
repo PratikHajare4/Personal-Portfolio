@@ -5,6 +5,7 @@ import { LuGraduationCap } from "react-icons/lu";
 import braindumpImg from "@/public/Braindump.png"
 import shopifyImg from "@/public/shopify.png"
 import jobentryImg from "@/public/jobentry.png"
+import HomeAssist from "@/public/HomeAssit.jpg"
 
 export const links = [
   {
@@ -74,6 +75,13 @@ export const experiencesData = [
 
 export const projectsData = [
   {
+    title: "HomeAssist",
+    description:
+      "Developed a full-stack web application for real-world client using the MERN stack for a comprehensive real estate management platform. Implemented key features such as dynamic listing display, advanced search functionality, and interactive image galleries using Swiper.js. Leveraged Tailwind CSS for responsive UI design.",
+    tags: ["NextJs", "Tailwind CSS",  "Node.js", "MongoDB", "Express"],
+    imageUrl: HomeAssist,
+  },
+  {
     title: "BrainDump",
     description:
       "This is a Note making android app, User can write, update and delete notes. Users can set reminders, give it a tag name, set priority and make deadlines  it is available in light, dark, and dynamic color theme. Implemented search functionality for searching by names and tag.",
@@ -97,6 +105,13 @@ export const projectsData = [
 ] as const;
 
 export const skillsData = [
+  "SpringBoot",
+  "Microservices",
+  "Docker",
+  "Kubernetes",
+  "Redux",
+  "Redis",
+  "Kafka",
   "HTML",
   "CSS",
   "JavaScript",
@@ -106,7 +121,7 @@ export const skillsData = [
   "Node.js",
   "Git",
   "GitHUB",
-  "Tailwind",
+  "Tailwind CSS",
   "MongoDB",
   "Express",
   "Python",
